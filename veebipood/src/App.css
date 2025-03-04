@@ -33,3 +33,16 @@
 .tekst:active {
   color: brown;
 }
+
+.aktiivne {
+  border: 1px solid rgb(227 6 140);
+  color: rgb(227 6 140);
+}
+
+.aktiivne-keel {
+  font-weight: bold;
+}
+
+.aktiivne-linn {
+  text-decoration: underline;
+}

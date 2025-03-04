@@ -24,6 +24,14 @@ function Menu() {
         <Link to="/esindused">
           <button>Esindused</button>
         </Link>
+
+        <Link to="/osta-kinkekaart">
+          <button>Kinkekaart</button>
+        </Link>
+
+        <Link to="/kalkulaator">
+          <button>Kalkulaator</button>
+        </Link>
     </div>
   )
 }
